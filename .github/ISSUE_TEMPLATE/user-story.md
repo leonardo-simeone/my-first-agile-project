@@ -15,3 +15,9 @@ assignees: ''
 * Acceptance Criteria 1:
 * Acceptance Criteria 2:
 * Acceptance Criteria 3:
+
+## Tasks:
+
+- [ ] Task number 1
+- [ ] Task number 2
+- [ ] Task number 3
